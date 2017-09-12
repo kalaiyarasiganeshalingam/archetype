@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/siddhi-execution/siddhi-archetype-execution.iml" filepath="$PROJECT_DIR$/siddhi-execution/siddhi-archetype-execution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siddhi-io-extension/siddhi-archetype-io.iml" filepath="$PROJECT_DIR$/siddhi-io-extension/siddhi-archetype-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siddhi-extension-mapper/siddhi-archetype-mapper.iml" filepath="$PROJECT_DIR$/siddhi-extension-mapper/siddhi-archetype-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siddhi-extension-archetype.iml" filepath="$PROJECT_DIR$/siddhi-extension-archetype.iml" />
+    </modules>
+  </component>
+</project>
